@@ -1,5 +1,5 @@
 # 💃 Datania
 
-Datania es un proyecto a nivel de España con el objetivo de mejorar y simplificar el acceso a datos abiertos del ecosistema.
+Datos abiertos, sin complicaciones. Datania es un proyecto para mejorar y simplificar el acceso a datos abiertos a nivel de España.
 
-Puedes [explorar algunos de los datasets que hemos publicado en HuggingFace](https://huggingface.co/datania) o ver [cómo lo hemos echo](https://github.com/datania).
+Puedes [explorar algunos de los datasets que hemos publicado en HuggingFace](https://huggingface.co/datania) o ver [cómo se están publicando](https://github.com/datania)!
